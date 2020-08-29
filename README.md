@@ -9,7 +9,7 @@
 </br>
 <hr>
 
-### Connect with me: 📨
+### Connect with me: 💌
 <img align="left" alt="https://akentominas.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"/>
 <img align="left" alt="https://www.linkedin.com/in/anastasis-kentominas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"/>
 <img align="left" alt="https://www.facebook.com/anastasis.kent.5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" style="max-width:100%;"/>
@@ -17,7 +17,7 @@
 </br>
 <hr>
 
-### Languages and Tools 👋
+### Languages and Tools 🔌
 <p><a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a>
 
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
