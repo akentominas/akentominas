@@ -7,9 +7,8 @@
 - 💬 Ask me about ... ANYTHING - I'll be glad to help other developers!
 - ⚡ Fun fact: ... I like eating Chocolate with Cucumbers 😂
 
-</br>
-
 ### Connect with me: 👋
 [My Website](https:/akentominas.com) | My Blog](https://java-specialist.com)
-### Hi there 👋
+
 ### Languages and Tools 👋
+[img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"]
