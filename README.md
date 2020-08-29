@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on ... Open Source projects 
 - 🤔 I’m looking for help with ... EVERYTHING 😅
 - 💬 Ask me about ... ANYTHING - I'll be glad to help other developers!
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I like eating Chocolate with Cucumbers 😂
 
+</br>
 
 ### Connect with me: 👋
 
