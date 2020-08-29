@@ -10,6 +10,6 @@
 </br>
 
 ### Connect with me: 👋
-
+[My Website](https:/akentominas.com) | My Blog](https://java-specialist.com)
 ### Hi there 👋
 ### Languages and Tools 👋
