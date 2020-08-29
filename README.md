@@ -11,4 +11,4 @@
 [My Website](https:/akentominas.com) | My Blog](https://java-specialist.com)
 
 ### Languages and Tools 👋
-[img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"/>]
