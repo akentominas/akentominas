@@ -32,11 +32,11 @@
  
 <a href="" rel="nofollow"><img align="left" alt="Nginx" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png?f=avif&w=512" style="max-width:100%;"></a>
  
-<a href="" rel="nofollow"><img align="left" alt="AWS" width="35px" src="https://www.drewkhoury.com/images/icon-cloud-aws.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="AWS" width="35px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" style="max-width:100%;"></a>
  
 <a href="" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" style="max-width:100%;"></a>
  
-<a href="" rel="nofollow"><img align="left" alt="Chef" width="35px" src="https://w7.pngwing.com/pngs/507/600/png-transparent-chef-test-automation-devops-infrastructure-as-code-couchbase-server-orange-logo-information-technology.png" style="max-width:100%;"></a></p>
+<a href="" rel="nofollow"><img align="left" alt="Chef" width="35px" src="https://avatars.githubusercontent.com/u/3617830?s=280&v=4" style="max-width:100%;"></a></p>
 
 <a href="" rel="nofollow"><img align="left" alt="Ansible" width="35px" src="https://img.icons8.com/color/512/ansible.png" style="max-width:100%;"></a></p>
 
