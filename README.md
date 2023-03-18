@@ -5,7 +5,7 @@
 <hr>
 
 ### Connect with me: 💌
-<img align="left" alt="https://akentominas.com/" width="22px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" style="max-width:100%;"/>
+<img align="left" alt="https://akentominas.com/" width="40px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" style="max-width:100%;"/>
 <img align="left" alt="https://www.linkedin.com/in/anastasis-kentominas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"/>
 <img align="left" alt="https://www.facebook.com/anastasis.kent.5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" style="max-width:100%;"/>
 
