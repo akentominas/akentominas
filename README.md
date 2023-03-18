@@ -16,9 +16,10 @@
 <p>
 
 
-<a href="" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width:100%;"></a>
 
-<a href="" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-7-1175194.png?f=avif&w=512" style="max-width:100%;"></a>
+
 
 <a href="" rel="nofollow"><img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"></a>
  
