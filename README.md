@@ -32,7 +32,7 @@
  
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F9611&psig=AOvVaw3RoF5pJylbCHv1fkgPknv2&ust=1679237685789000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjV9P_d5f0CFQAAAAAdAAAAABAE" style="max-width:100%;"></a>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Terminal" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABash_Logo_black_and_white_icon_only.svg&psig=AOvVaw11kVY9Cs4pO4LU9kLFAoQL&ust=1679237802254000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDTqLfe5f0CFQAAAAAdAAAAABAE" style="max-width:100%;"></a></p>
+<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Terminal" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1024px-Bash_Logo_black_and_white_icon_only.svg.png?20180723054438" style="max-width:100%;"></a></p>
 
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
  
