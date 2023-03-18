@@ -16,26 +16,34 @@
 <p>
 
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-7-1175194.png?f=avif&w=512" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-7-1175194.png?f=avif&w=512" style="max-width:100%;"></a>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"></a>
  
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Python" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/python-3629591-3032289.png?f=avif&w=512" style="max-width:100%;"></a>
-
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Elastic" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/elasticsearch-226094.png?f=avif&w=512" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Python" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/python-3629591-3032289.png?f=avif&w=512" style="max-width:100%;"></a>
  
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Nginx" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png?f=avif&w=512" style="max-width:100%;"></a>
- 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png?f=avif&w=512" style="max-width:100%;"></a>
- 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F9611&psig=AOvVaw3RoF5pJylbCHv1fkgPknv2&ust=1679237685789000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjV9P_d5f0CFQAAAAAdAAAAABAE" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Redis" width="35px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" style="max-width:100%;"></a></p>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Terminal" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1024px-Bash_Logo_black_and_white_icon_only.svg.png?20180723054438" style="max-width:100%;"></a></p>
+<a href="" rel="nofollow"><img align="left" alt="Elastic" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/elasticsearch-226094.png?f=avif&w=512" style="max-width:100%;"></a>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Prometheus" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" style="max-width:100%;"></a></p>
  
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B" rel="nofollow"><img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Nginx" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png?f=avif&w=512" style="max-width:100%;"></a>
+ 
+<a href="" rel="nofollow"><img align="left" alt="AWS" width="35px" src="https://www.drewkhoury.com/images/icon-cloud-aws.png" style="max-width:100%;"></a>
+ 
+<a href="" rel="nofollow"><img align="left" alt="Git" width="35px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" style="max-width:100%;"></a>
+ 
+<a href="" rel="nofollow"><img align="left" alt="Chef" width="35px" src="https://w7.pngwing.com/pngs/507/600/png-transparent-chef-test-automation-devops-infrastructure-as-code-couchbase-server-orange-logo-information-technology.png" style="max-width:100%;"></a></p>
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4" rel="nofollow"><img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
+<a href="" rel="nofollow"><img align="left" alt="Ansible" width="35px" src="https://img.icons8.com/color/512/ansible.png" style="max-width:100%;"></a></p>
+
+<a href="" rel="nofollow"><img align="left" alt="Terminal" width="35px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" style="max-width:100%;"></a></p>
+
+<a href="" rel="nofollow"><img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
+ 
+<a href="" rel="nofollow"><img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
+
+<a href="" rel="nofollow"><img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
