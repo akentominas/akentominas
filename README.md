@@ -5,8 +5,8 @@
 <hr>
 
 ### Connect with me: 💌
-<img align="left" alt="https://akentominas.com/" width="40px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" style="max-width:100%;"/>
-<img align="left" alt="https://www.linkedin.com/in/anastasis-kentominas" width="40px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" style="max-width:100%;"/>
+<a href="https://akentominas.com/" rel="nofollow"><img align="left" alt="https://akentominas.com/" width="40px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" style="max-width:100%;"/></a>
+<a href="https://www.linkedin.com/in/anastasis-kentominas" rel="nofollow"><img align="left" alt="https://www.linkedin.com/in/anastasis-kentominas" width="40px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" style="max-width:100%;"/></a>
 
 
 </br>
@@ -47,4 +47,3 @@
  
 <a href="" rel="nofollow"><img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
 
-<a href="" rel="nofollow"><img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
